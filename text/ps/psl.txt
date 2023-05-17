@@ -1,0 +1,3 @@
+F S   UID     PID    PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
+0 S  1000 1606493 1606488  0  80   0 -  2534 sigsus pts/1    00:00:00 zsh
+4 R  1000 1606802 1606493 99  80   0 -  2800 -      pts/1    00:00:00 ps

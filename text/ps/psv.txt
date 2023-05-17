@@ -1,0 +1,4 @@
+    PID TTY      STAT   TIME  MAJFL   TRS   DRS   RSS %MEM COMMAND
+1269062 pts/0    Ss+    0:08     37   613 13090  5364  0.2 /usr/bin/zsh
+1606493 pts/1    Ss     0:00     25   613  9522  6344  0.3 -zsh
+1606922 pts/1    R+     0:00      0    63 11136  4660  0.2 ps -v

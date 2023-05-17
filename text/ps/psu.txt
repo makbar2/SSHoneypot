@@ -1,0 +1,4 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root     1269062  0.0  0.2  13704  5364 pts/0    Ss+  Apr13   0:08 /usr/bin/zsh
+root     1606493  0.2  0.3  10136  6344 pts/1    Ss   08:28   0:00 -zsh
+root     1607241  0.0  0.2  11200  4800 pts/1    R+   08:30   0:00 ps -u

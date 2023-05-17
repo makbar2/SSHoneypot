@@ -1,0 +1,7 @@
+
+root:$6$1R/PWILc$gQebZrUfmv6YR7Vjy.e6b4o4HD5q5GM5WVCLZzjF.f7S1Yv89/sF04wROnJJrtf/EjK9aCv2nHnmZowhtrPy1:18807:0:99999:7:::
+bin:*:18807:0:99999:7:::
+daemon:*:18807:0:99999:7:::
+sshd:*:18807:0:99999:7:::
+backup:*:18807:0:99999:7:::
+admin:$6$6Wy4KQGy$6U5m5q5v0F0/khOZzmk8FFwW/KpN1pdPaOERJc/pN8o7W9GvuzOg7zZ0jK8egwHHHk64geXBdzpm7jMgUXG8W/:18807:0:99999:7:::

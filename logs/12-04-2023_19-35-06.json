@@ -1,0 +1,11 @@
+{
+    "time": "12-04-2023 19:35:06",
+    "IPData": {
+        "status": "fail",
+        "message": "private range",
+        "query": "192.168.0.10"
+    },
+    "action": "login fail",
+    "login attempts": [],
+    "commands": []
+}

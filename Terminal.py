@@ -632,12 +632,12 @@ class Terminal():
 
 
 
-t = Terminal()
+# t = Terminal()
 
-def test(command:str,):
-    print(f"testting command: {command}")
-    t.setCommand(command)
-    print(t.processCommand())
+# def test(command:str,):
+#     print(f"testting command: {command}")
+#     t.setCommand(command)
+#     print(t.processCommand())
 
 
 

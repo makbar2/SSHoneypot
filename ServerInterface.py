@@ -28,8 +28,8 @@ class ServerInterface(paramiko.ServerInterface):
     
     def get_banner(self):
         print("sending banner")
-        return ('',"en-UK")
-        #return ('SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.3\n',"en-UK")
+        #return ('',"en-UK")
+        return ('SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.3\n',"en-UK")
         #return ('SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.3\n',"en-UK")
 
     
